@@ -19,8 +19,10 @@
 
 ## Experiência:
 
-Já trabalhei como programador Freelancer, ajudando na criação de um site voltado para relátorios e analise de gráficos. E ajudei na criação de Bots de Atendimento via WhatsApp.
+Trabalhei como programador Freelancer, ajudando na criação de um site voltado para relátorios e analise de gráficos. Além disso, auxilei na criação de Bots de Atendimento via WhatsApp.
+
+## 
 
 ## Objetivo:
 
-Busco uma oportunidade de emprego como programador, para por em prática o meu conhecimento e me desenvolver mais na área. 
+Busco uma oportunidade de emprego como programador, para por em prática o meu conhecimento e me desenvolver como profissional. 
